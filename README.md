@@ -7,11 +7,11 @@
 </p>
 
 - 🌱 Learning Something New Everyday...
-  🔭 Highly interested in Cloud Computing. 
-  🌱 Currently learning more about Blockchain.
-  🔭 Working as Android developer.
-  👯 I’m looking to make more friends.
-  💬 Ask about Android Development / Java / C# / MySQL .
+- 🔭 Highly interested in Cloud Computing. 
+- 🌱 Currently learning more about Blockchain.
+- 🔭 Working as Android developer.
+- 👯 I’m looking to make more friends.
+- 💬 Ask about Android Development / Java / C# / MySQL .
 
 ## Connect With Me
 
