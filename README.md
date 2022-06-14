@@ -1,3 +1,6 @@
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
 ### Welcome 👋
 
 # Hi, I'm Satyam Raj <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">  ![](https://komarev.com/ghpvc/?username=stymrj&label=PROFILE+VIEWS)
@@ -7,6 +10,11 @@
 </p>
 
 - 🌱 Learning Something New Everyday...
+  🔭 Highly interested in Cloud Computing. 
+  🌱 Currently learning more about Blockchain.
+  🔭 Working as Android developer.
+  👯 I’m looking to make more friends.
+  💬 Ask about Android Development / Java / C# / MySQL .
 
 ## Connect With Me
 
