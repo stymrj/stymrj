@@ -41,6 +41,7 @@
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)]
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)]
+[![VS Code](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=JetBrains)]
 [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)]
 
 
