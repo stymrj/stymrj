@@ -25,7 +25,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning [![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)],[![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)],[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
+- 🌱 I’m currently learning [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)],[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/stymrj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
