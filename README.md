@@ -5,7 +5,6 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-
 # This is Satyam Raj 👋 ![](https://komarev.com/ghpvc/?username=stymrj&color=brightgreen&style=flat)
 
 <p align="center">
@@ -23,9 +22,10 @@
 - 💬 Ask about Android Development / Java / C# / MySQL .
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-## Connect With Me
-   ### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams. 
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
+
+## Connect With Me 
+   ###  I'm a programmer and an insightful learner who is passionate about growing in teams with dreams. 
+<h align="left"> Let's be friends and get connected!!  </p></h>
 <p align="left">
 
 </p>
@@ -44,7 +44,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ## About Me
 
-- 🌱 I’m currently learning [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)],[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
+- 🌱 I’m currently learning [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)],
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/stymrj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -57,11 +57,15 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 [ ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]
-
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
+[![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]
+[![ios](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)]
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)]
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=JetBrains)]
 [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)]
+[![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)]
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)]
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ## Languages And Tools
@@ -74,17 +78,18 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ## Technology Stack
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)]
-
-
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)]
+[![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)]
+[![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]
+[![DialogFlow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)]
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
-
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  ## 📈 Stats
