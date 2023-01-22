@@ -100,7 +100,5 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stymrj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stymrj" /></a><a href="https://ko-fi.com/stymrj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="stymrj" /></a></p><br><br>
