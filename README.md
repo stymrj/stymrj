@@ -46,6 +46,9 @@
 ## About Me
  I am passionate to learn new technologies. I am persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. With a keen interest in coding and programming, aiming to build a career in the field of Software Developments.
 
+## Holopin Batches 
+[![An image of @stymrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stymrj)](https://holopin.io/@stymrj)
+
 ## 🖥️ Operating System & Tools
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
