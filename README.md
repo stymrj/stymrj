@@ -2,10 +2,11 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/👋 !
- <p>
-  <img src="https://komarev.com/ghpvc/?username=stymrj&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
-</p>
 </h1>
+
+![profile count](https://komarev.com/ghpvc/?username=stymrj&color=red)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/stymrj?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+
 <h3 align="center">🌟 I’m <strong>Satyam Raj</strong> — Turning Ideas into Code 💡 | Always Learning 📚 | Building Cool Stuff ⚡</h3>
 
 <p align="center">
