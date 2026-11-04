@@ -15,10 +15,10 @@
   </a>
 </p>
 
-- 🌱 **Learning** Something New Everyday...
-- 🔭 Highly interested in Cloud Computing and Programming.. 
+- 🌱 **Learning** something new every day...
+- 🔭 Highly interested in Cloud Computing and Programming.
 - 💼 **Software Developer at Extension Technologies** — working on AI Projects (RAG pipelines & automation)
-- 💻 **Currently working on:** AI Projects & MERN Stack
+- 💻 **Currently working on:** Excitor KB, AI Projects & MERN Stack
 - 💬 **Ask me about:** Tech, code, or career growth  
 -  ⚡ **Goal:** Contribute to impactful open-source projects
 - 📫 **Reach me:** [![Gmail](https://img.shields.io/badge/-sstymrj@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sstymrj@gmail.com) &nbsp;
@@ -28,8 +28,8 @@
   
 
 
-## Connect With Me 
-###  I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
+## Connect With Me
+### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
 <p align="left">
 
 </p>
@@ -46,7 +46,10 @@
 </p>
 
 ## About Me
- I am passionate to learn new technologies. I am persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. With a keen interest in coding and programming, aiming to build a career in the field of Software Developments.
+I'm a software developer who loves learning new technologies and turning them into real-world projects. I work best in teams, where collaboration and clear communication matter as much as code. I enjoy taking on new challenges, meeting new people, and sharing what I learn along the way.
+
+## 🔭 Currently Building at Work
+**Excitor KB** — An AI-powered RAG platform for ERPNext and project knowledge. It generates citation-backed BRD/FRD documents, helps analyse requirements, and keeps traceability and implementation planning tied to actual project knowledge instead of guesses.
 
 ## Holopin Batches 
 [![An image of @stymrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stymrj)](https://holopin.io/@stymrj)
@@ -98,7 +101,7 @@
  ## 📈 Stats
  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stymrj&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stymrj&show_icons=true&hide_border=true&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=stymrj&hide_border=true" />
 </p>
 
